@@ -8,7 +8,22 @@ One goal of this project was also to keep the build relatively affordable. Based
 
 Overall, this project was mainly built for learning, experimenting, and having fun with hardware design. It was a really good experience going through the full PCB design process and understanding how keyboards work internally. If someone finds this project interesting or wants to build their own version of it, that would be really awesome.
 
-## 📦 Bill of Materials (BOM) – Split Keyboard
+
+<img width="1151" height="821" alt="Screenshot 2026-03-08 011359" src="https://github.com/user-attachments/assets/64a14629-5b29-4e27-94e5-346726850d9d" />
+<img width="950" height="812" alt="Screenshot 2026-03-08 011342" src="https://github.com/user-attachments/assets/9f10fdb9-39a1-485b-83d1-70a95b73c155" />
+<img width="1045" height="728" alt="Screenshot 2026-03-08 011325" src="https://github.com/user-attachments/assets/71728f39-1f57-4654-9212-ed2a750dfdd3" />
+<img width="1083" height="699" alt="Screenshot 2026-03-08 011651" src="https://github.com/user-attachments/assets/78f5dd0a-9583-4c05-a605-50d05d5e6152" />
+<img width="1207" height="834" alt="Screenshot 2026-03-08 011517" src="https://github.com/user-attachments/assets/18ccce3d-0222-47f9-9f33-0ff6c02789f2" />
+<img width="1030" height="850" alt="Screenshot 2026-03-08 011458" src="https://github.com/user-attachments/assets/34e99778-8b37-4ff1-9108-f443021bab1a" />
+<img width="992" height="689" alt="Screenshot 2026-03-08 011443" src="https://github.com/user-attachments/assets/08709e8e-7bf2-4543-be33-d7d4f6995490" />
+
+## Cart:
+
+<img width="952" height="847" alt="Screenshot 2026-03-07 232858" src="https://github.com/user-attachments/assets/f6a3bdd3-f1fb-4ec5-ad67-696278849d3b" />
+<img width="1918" height="969" alt="Screenshot 2026-03-07 233001" src="https://github.com/user-attachments/assets/165935cd-5bf1-4b65-8e99-ce11d3245ed2" />
+
+
+## Bill of Materials (BOM) – Split Keyboard
 
 | # | Component | Quantity | Unit Price | Total | Link |
 |---|-----------|---------|-----------|------|------|
@@ -21,7 +36,7 @@ Overall, this project was mainly built for learning, experimenting, and having f
 | 7 | PCB (Will buy it locally) | 1 order (2PCB) | $20 | ≈ ₹1838 | — |
 
 ---
-### 💰 Total Estimated Cost
+### Total Estimated Cost
 
 | Item | Cost |
 |-----|------|
