@@ -20,7 +20,8 @@ Overall, this project was mainly built for learning, experimenting, and having f
 ## Cart:
 
 <img width="952" height="847" alt="Screenshot 2026-03-07 232858" src="https://github.com/user-attachments/assets/f6a3bdd3-f1fb-4ec5-ad67-696278849d3b" />
-<img width="1918" height="969" alt="Screenshot 2026-03-07 233001" src="https://github.com/user-attachments/assets/165935cd-5bf1-4b65-8e99-ce11d3245ed2" />
+<img width="1534" height="437" alt="Screenshot 2026-03-07 232520" src="https://github.com/user-attachments/assets/119cb2a5-8c0a-4966-8fe5-8d1130412150" />
+
 
 
 ## Bill of Materials (BOM) – Split Keyboard
